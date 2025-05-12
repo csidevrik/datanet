@@ -1,2 +1,1 @@
-# datanet
-datanet mini app para monitorear una lista de dispositivos
+perfilizer es un aplicativo generado con go para interactuar con el servidor en windows.
