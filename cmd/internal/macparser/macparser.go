@@ -46,7 +46,6 @@ func getMACType(norm string) string {
 	if norm == "ffffffffffff" {
 		return "Broadcast"
 	}
-	firstByte, _ := fmt.Sscanf(norm[0:2], "%x", new(byte))
 	b := norm[0:2]
 	bVal := parseHexByte(b)
 

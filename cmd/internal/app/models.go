@@ -1,3 +1,5 @@
+package app
+
 type Record struct {
 	Name string `json:"name" csv:"name"`
 	IP   string `json:"ip" csv:"IP"`
