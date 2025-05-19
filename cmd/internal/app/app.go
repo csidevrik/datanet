@@ -1,7 +1,7 @@
 package app
 
 import (
-	"github.com/csidevrik/datanet/internal/gui"
+	"github.com/csidevrik/prj-go/cmd/internal/gui"
 )
 
 func Run() {

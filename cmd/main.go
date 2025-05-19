@@ -2,8 +2,7 @@ package main
 
 import (
 	"fmt"
-
-	"internal/macparser"
+	"github.com/tuusuario/prj-go/internal/macparser"
 )
 
 func main() {

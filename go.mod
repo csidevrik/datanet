@@ -1,10 +1,9 @@
-module github.com/csidevrik/datanet
+module github.com/csidevrik/prj-go
 
 go 1.24.1
 
 require (
 	fyne.io/fyne/v2 v2.6.1
-	github.com/csidevrik/datanet v0.0.0-20250519164817-af12132e83d1
 	github.com/go-ping/ping v1.2.0
 	github.com/jszwec/csvutil v1.10.0
 )
